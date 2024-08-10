@@ -39,6 +39,6 @@ public class CreateAccountStepDef {
         createAccount.enterEmailAddress();
         createAccount.enterPassword();
         createAccount.enterConfirmPassword();
-        Thread.sleep(10000);
+        Thread.sleep(20000);
     }
 }
